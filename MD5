@@ -1,4 +1,4 @@
-1c36c1ec289a1dd382b1c5644ba13c89 *DESCRIPTION
+9424dcf2dfeb3b66c573c3f60f84952a *DESCRIPTION
 6625782f58bf146e05a16a85c9f81da7 *NAMESPACE
 2985dc7a7794adc9fc53450490192167 *R/AllGenerics.R
 8c7da003b923197f41bc33369d408655 *R/TiddlyWikiR-package.r
@@ -11,12 +11,15 @@ afa1da23f6e91af34af4103255fda851 *R/newEmptyWiki.r
 68ea3e673098c1a8c1a775c81eb0ef38 *R/writeTags.r
 947c67a8e8977e6c606ed13892c12a99 *R/writeTiddlers.r
 629ec26a80dba9ab28a6076105a997ed *README.md
+65f74279e170716b1de4b94a59ebb98f *build/vignette.rds
 6bda653980d1a9861ab4e420eae38adb *inst/doc/TiddlySaver.jar
-ab80712a977596730107020a51844155 *inst/doc/TiddlyWikiR_getting_started.html
-052ea660f40fc38afe5e456e361e05dc *inst/doc/TiddlyWikiR_getting_started.md
-8155f64860c92191fc8c44814caf2954 *inst/doc/files/myplot.png
+6c3c9cc3c9b9da82fdabeff3894b11ba *inst/doc/TiddlyWikiR_getting_started.R
+41cda6b599f695cd549ebf54f3c340ef *inst/doc/TiddlyWikiR_getting_started.Rmd
+3e53c621c83effe38b2409f5ef0d5c4c *inst/doc/TiddlyWikiR_getting_started.html
+19ca8dd4c1d375ccfc402bb4980c1536 *inst/doc/TiddlyWikiR_getting_started.md
+f88adabae98c0d26053b2ae603f7984f *inst/doc/files/myplot.png
 596bbab521f255f9a8bd08ee5c7f4cbd *inst/doc/myReport_1.html
-241f3463dd069b2f5b4185c26fcf589e *inst/doc/myReport_2.html
+efae51fcca2578d2480cedbb2f8a8c22 *inst/doc/myReport_2.html
 82351569292f7ca35fc45607493a15f9 *inst/doc/myTemplate.html
 6bda653980d1a9861ab4e420eae38adb *inst/examples/TiddlySaver.jar
 82351569292f7ca35fc45607493a15f9 *inst/examples/empty.html
@@ -33,4 +36,4 @@ eb7f010690ca17b0c6f8f884617a135c *man/twImage-class.Rd
 c95dd02f3f76694822c1e568e28bd382 *man/wikify.Rd
 d8430ae0e5129667ed0547bc4fab9cc5 *man/writeTags.Rd
 0c89055f96ff89eb782ae148e180bac3 *man/writeTiddlers.Rd
-169bcaab5b5916dd6746f2fb78072032 *vignettes/TiddlyWikiR_getting_started.Rmd
+41cda6b599f695cd549ebf54f3c340ef *vignettes/TiddlyWikiR_getting_started.Rmd
